@@ -1,7 +1,9 @@
-# bi-builder
+# BI-Builder
 This is a tool for building data visualizations！
 
-# Technology Stack
+
+
+### Technology Stack
 
 - GoFrame
 - Ant Design Pro
@@ -10,6 +12,6 @@ This is a tool for building data visualizations！
 - TypeScript
 
 
-# License
+### License
 
 [MIT License](LICENSE)
