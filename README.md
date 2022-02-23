@@ -1,4 +1,4 @@
-# map-builder
+# bi-builder
 This is a tool for building data visualizations！
 
 # Technology Stack
@@ -8,3 +8,8 @@ This is a tool for building data visualizations！
 - React
 - MySQL
 - TypeScript
+
+
+# License
+
+[MIT License](LICENSE)
